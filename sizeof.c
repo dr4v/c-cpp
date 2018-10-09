@@ -1,3 +1,6 @@
+/*
+sizeof of data types in c11
+*/
 #include <stdio.h>
 
 int main()
